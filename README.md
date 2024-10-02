@@ -2,7 +2,7 @@
 
 ## Membuat Folder `public` dan Folder `image` di Dalamnya
 
-Untuk memulai proyek ini, pastikan Anda telah membuat struktur direktori yang sesuai dengan instruksi di bawah ini.
+Untuk memulai proyek ini, pastikan Anda telah membuat struktur direktori yang sesuai dengan instruksi di bawah ini *buat folder diluar src*.
 
 ### Langkah-langkah:
 
