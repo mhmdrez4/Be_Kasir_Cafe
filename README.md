@@ -12,4 +12,4 @@ Untuk memulai proyek ini, pastikan Anda telah membuat struktur direktori yang se
 Struktur direktori setelah pembuatan folder:
 
 
-##.env berisi DATABASE_URL="mysql://root@localhost:3306/cafe" Sesuaikan nama database
+**.env berisi DATABASE_URL="mysql://root@localhost:3306/cafe" Sesuaikan nama database**
